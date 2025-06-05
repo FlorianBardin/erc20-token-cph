@@ -10,5 +10,7 @@ npm install
 PRIVATE_KEY=0x...
 ALCHEMI_API_KEY=...
 ```
-`npx hardhat run scripts/deploy.js --network sepolia`
+```
+npx hardhat run scripts/deploy.js --network sepolia
+```
 
