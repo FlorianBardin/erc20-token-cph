@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FlorianBardin/erc20-token-cph/issues"
   },
-  "homepage": "https://github.com/FlorianBardin/erc20-token-cph#readme"
+  "homepage": "https://github.com/FlorianBardin/erc20-token-cph#readme",
+  "devDependencies": {
+    "hardhat": "^2.24.2"
+  }
 }
