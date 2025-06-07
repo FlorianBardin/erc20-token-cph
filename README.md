@@ -2,14 +2,10 @@
 
 ## Requis
 
----
-
 - [NodeJS](https://nodejs.org/)
 - [MetaMask](https://metamask.io/) (Optionnel)
 
 ## Installation
-
----
 
 Installez le projet :
 ```bash
@@ -28,8 +24,6 @@ npx hardhat ignition deploy ignition/modules/Cephee.js --network sepolia
 ```
 
 ## Consulter le jeton
-
----
 
 ### Sur Etherscan
 - Se rendre sur [Etherscan](https://sepolia.etherscan.io/) (Pour Sepolia)
